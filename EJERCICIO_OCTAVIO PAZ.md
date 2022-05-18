@@ -1,9 +1,10 @@
 <!DOCTYPE html
 <html lang= "en">
+	
 <head>
 	<title> Poemas Octavio Paz </title>
 </head>
-<body>
+	<body>
 
 	<h1><strong> 5 Poemas de Octavio Paz </strong></h1>
 	<h2><em><strong> Laura Di Verso </strong></em></h2>
@@ -38,6 +39,5 @@
 	se disipa.<br>
 	¿Así es más real?<br></p>
 
-</body>
-
+	</body>
 </html>
