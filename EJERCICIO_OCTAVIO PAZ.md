@@ -19,26 +19,7 @@ Octavio Paz. </strong></em></p>
 	<p><em><strong> Decir, hacer </strong></em></p>
 	<p><em> A Roman Jakobson </em></p>
 	<p> Entre lo que veo y digo,<br>
-	Entre lo que digo y callo,<br>
-	Entre lo que callo y sueño,<br>
-	Entre lo que sueño y olvido<br>
-	La poesía.<br>
-	Se desliza entre el sí y el no:<br>
-	dice<br>
-	lo que callo,<br>
-	calla<br>
-	lo que digo,<br>
-	sueña<br>
-	lo que olvido.<br>
-	No es un decir:<br>
-	es un hacer.<br>
-	Es un hacer<br>
-	que es un decir.<br>
-	La poesía<br>
-	se dice y se oye:<br>
-	es real.<br>
-	Y apenas digo<br>
-	es real,<br>
+	@@ -39,5 +42,8 @@
 	se disipa.<br>
 	¿Así es más real?<br></p>
 
