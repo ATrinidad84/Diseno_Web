@@ -42,13 +42,28 @@ Preguntas:
 
 1. Describe al menos 5 características básicas de un editor de texto. (valor 1.0)
 
+Un simple editor de texto (IDE) nos puede ayudar a escribir toda la sintaxis y semántica de nuestro sitio web ya que tiene características útiles como: resaltar la sintaxis, encontrar algunos problemas dependiendo del lenguaje o autocompletando para que la experiencia sea mejor; ademas de las funciones básicas de: Autocompletar, cortar, copiar y pegar, buscar-reemplazar, dar formato, deshacer y rehacer.
+
 2. Menciona al menos 3 editores de texto. Pueden ser tanto comerciales como los preinstalados en algún sistema operativo. (valor 1.0)
+
+- Bloc de notas
+- Wordpad
+- Word
 
 3. ¿Qué extensión debe tener un archivo que contiene el código HTML de una página web? (valor 1.0)
 
+Debera tener la extensión "html" de la siguiente forma: "nombre del archivo".html
+
+
 4. ¿Qué extensión llevan los archivos que contienen instrucciones para aplicar estilos a un documento que contiene el código HTML de una página web? (valor 1.0)
 
+Tendran la extensión "CSS", es decir: La primer parte del código se escribe y guarda en el editor de texto agregando al final la extensión .html; la segunda (el archivo) que contiene los estilos del código para CSS se escribe y guarda en el editor de texto como index.css
+
 5. ¿Menciona al menos tres formatos de imagen que puedes incorporar dentro del código html5? (valor 1.0)
+
+- jpg
+- png
+- gif
 
 6. Uno de los buenos hábitos para desarrollar nuestra página web es tener en
 distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacionados
