@@ -7,15 +7,31 @@ Preguntas:
 
 1. ¿Qué es el hipertexto? (valor 1.0)
 
+El hipertexto es un conjunto estructurado de textos, gráficos, etcétera, unidos entre sí por enlaces y conexiones lógicas que nos permiten ir de un punto a otro, en un mismo texto, o a otro texto a través de referencias. De este modo, en el hipertexto ciertos términos están relacionados y el texto se puede leer siguiendo diferentes caminos. Las relaciones en el hipertexto se establecen entre lo que se suele llamar como referencias, enlaces, vínculos o hipervínculos.
+
 2. ¿Qué es la hipermedia? (valor 1.0)
+
+Podemos definir hipermedia como: el conjunto estructurado de diversos medios como textos, gráficos, imágenes y sonidos unidos entre sí por enlaces y conexiones lógicas para la transmisión de una información.
 
 3. ¿Qué características tiene un lenguaje de etiquetas? (valor 1.0)
 
+Los lenguajes de etiquetas, también conocidos como lenguajes de marcado o de marcas, son los que nos permiten estructurar un documento mediante el uso de etiquetas. Los lenguajes de etiquetas no se identifican con los de programación; ya que los lenguajes de etiquetas no definen algunos aspectos básicos presentes en los lenguajes de programación, como es el caso de funciones aritméticas o el uso de variables, por citar algunos ejemplos; una de sus principales características es que el uso de etiquetas nos permite dar jerarquía implicita y/o estructurada en el desarrollo de archivos web.
+
 4. ¿Cuáles son las ventajas que introduce HTML5? (valor 1.0)
+
+En la última version de HTML, HTML5 se destacan sus características semánticas, las posibilidades multimedia que incorpora, las nuevas funciones para formulario y las características que se definen para poder integrarse con tecnologías que permitirán abrir una nueva etapa en Internet, en lo que se refiere a la arquitectura de las aplicaciones.
 
 5. ¿Cuál es la función del motor de renderizado de un navegador web? (valor 1.0)
 
+Cuando el navegador web obtiene datos de un servidor conectado a Internet, utiliza un software llamado motor de renderizado para traducir esos datos en texto e imágenes. Estos datos están escritos en "lenguaje de marcas de hipertexto" (HTML) y los navegadores web leen este código para construir lo que vemos, escuchamos y experimentamos en Internet; a grandes rasgos un motor de renderizado es un traductor o interprete del contenido escrito en HTML.
+
 6. Menciona al menos 2 tecnologías de software para el desarrollo de páginas web y explícalas brevemente (valor 1.0)
+
+HTML5: En HTML5 se destacan sus características semánticas, las posibilidades multimedia que incorpora, las nuevas funciones para formulario y las características que se definen para poder integrarse con tecnologías que permitirán abrir una nueva etapa en Internet, en lo que se refiere a la arquitectura de las aplicaciones. Básicamente con HTML5 podemos maquetar el "esqueleto" o diseño principal de nuestro sitio web mediante las funcionalidades que este lenguaje nos permite.
+
+CSS: Las hojas de estilo en cascada, tal es su traducción del inglés Cascading Style Sheets (CSS), tienen como función establecer reglas de representación de un documento en un medio o dispositivo. Mediante estas reglas podremos establecer medidas, colores o cualquier otra característica de representación de una página web, para que se vea reflejada en una pantalla de monitor, de un dispositivo móvil, una tablet, una impresora, un dispositivo braille o un televisor.
+La función principal de CSS es, por lo tanto, la de permitir separar el contenido y la estructura que se define en un documento HTML, de la representación, que queda a cargo de las hojas de estilos.
+
 
 ## 2. HERRAMIENTAS PARA LA CREACIÓN DE PÁGINAS WEB
 
