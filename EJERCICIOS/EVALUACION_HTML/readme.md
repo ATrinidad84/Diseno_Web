@@ -71,7 +71,7 @@ a imágenes en una carpeta, en otra los relacionados a multimedia, en otra a lo
 referente a los estilos (CSS), etc. (valor 1.0)
 
         a) Cierto
-        b) Falso
+        b) Falso 
 
 ## 3. ESTRUCTURA BÁSICA DE UN DOCUMENTO HTML
 
