@@ -93,7 +93,8 @@ Elemento: HTML es un lenguaje que se compone por elementos que permiten definir 
 a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
 etiqueta
 
-        a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta --------> Las etiquetas HTML semánticas dan un significado extra al               contenido de la etiqueta
+        a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta --------> Las etiquetas HTML semánticas dan un significado        extra al contenido de la etiqueta.
+        
         b) La nueva etiqueta <semantic> contiene información sobre cómo interpretar el
         contenido de la página
         c) Todas las etiquetas ahora tienen un atributo llamado "semántico" que contiene
@@ -113,9 +114,17 @@ material en el que se encuentra (como una barra lateral)? (valor 0.3)
         a) mark
         b) article
         c) time
-        d) span
+        d) span ---------> El elemento SPAN NO clasifica como marcado semàntico.
   
 5. ¿Menciona al menos 6 elementos semánticos en html5 y descríbelos brevemente? (valor 1.5)
+
+- Header: El elemento header representa un contenedor de contenido introductorio o un conjunto de enlaces de navegación. Un elemento header normalmente contiene: Uno o más elementos de encabezado (h1 ─ h6), logotipo o icono e información de autoría.
+
+- Nav: El elemento nav define un conjunto de enlaces de navegación. El elemento está diseñado solo para el bloque principal de enlaces de navegación.
+
+- Section: 
+- Aside
+- Footer
   
 Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
