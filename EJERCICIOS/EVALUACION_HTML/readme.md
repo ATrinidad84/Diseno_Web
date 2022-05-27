@@ -70,7 +70,7 @@ distintas carpetas distintos tipos de archivo, por ejemplo, los archivos relacio
 a imágenes en una carpeta, en otra los relacionados a multimedia, en otra a lo
 referente a los estilos (CSS), etc. (valor 1.0)
 
-        a) Cierto
+        a) Cierto -----> CIERTO
         b) Falso 
 
 ## 3. ESTRUCTURA BÁSICA DE UN DOCUMENTO HTML
@@ -81,11 +81,19 @@ Preguntas:
 
 1. ¿Menciona brevemente qué es una etiqueta y qué es un elemento? (valor 0.6)
 
+Las etiquetas en HTML son palabras clave que se escriben entre los signos <> y que el navegador entiende. Normalmente las etiquetas se componen de una etiqueta de apertura (entre los signos <>), una etiqueta de cierre (entre los signos </>) y un contenido. El contenido puede ser texto u otras etiquetas. Aunque existen algunas etiquetas que no tienen ni contenido ni etiqueta de cierre, son una excepción.
+
+Elemento: HTML es un lenguaje que se compone por elementos que permiten definir la estructura del documento. Estos elementos son los que nos posibilitan determinar cómo estará armada la página y sus secciones. Las etiquetas nos brindan la oportunidad de definir los elementos en el código. Todos los elementos se dividen en dos categorías; elementos en bloque y elementos en línea.
+
+
 2. ¿Qué significa la semántica en el contexto de HTML5? (valor 0.3)
+
+ La semántica define el significado de palabras y frases, es decir, tener elementos semánticos es equivalente a tener elementos con significado. Los elementos semánticos tienen un significado simple y claro tanto para el navegador como para el desarrollador.
+
 a) Las etiquetas HTML semánticas dan un significado extra al contenido de la
 etiqueta
 
-        a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta
+        a) Las etiquetas HTML semánticas dan un significado extra al contenido de la etiqueta --------> Las etiquetas HTML semánticas dan un significado extra al               contenido de la etiqueta
         b) La nueva etiqueta <semantic> contiene información sobre cómo interpretar el
         contenido de la página
         c) Todas las etiquetas ahora tienen un atributo llamado "semántico" que contiene
@@ -98,7 +106,7 @@ material en el que se encuentra (como una barra lateral)? (valor 0.3)
         a) header
         b) footer
         c) nav
-        d) aside
+        d) aside -------> ASIDE
   
 4. De los siguientes elementos, seleccione el que NO clasifica como marcado semántico. (valor 0.3)
   
