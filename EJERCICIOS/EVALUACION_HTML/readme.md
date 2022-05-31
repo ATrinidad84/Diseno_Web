@@ -120,11 +120,8 @@ material en el que se encuentra (como una barra lateral)? (valor 0.3)
 
 - Header: El elemento header representa un contenedor de contenido introductorio o un conjunto de enlaces de navegación. Un elemento header normalmente contiene: Uno o más elementos de encabezado (h1 ─ h6), logotipo o icono e información de autoría.
 
-- Nav: El elemento nav define un conjunto de enlaces de navegación. El elemento está diseñado solo para el bloque principal de enlaces de navegación.
 
-- Section: 
-- Aside
-- Footer
+- Nav: El elemento nav define un conjunto de enlaces de navegación. El elemento está diseñado solo para el bloque principal de enlaces de navegación.
 
 
 - Section: Este elemento define una sección en un documento. De acuerdo con la documentación HTML de W3C: "Una sección es una agrupación temática de contenido, generalmente con un encabezado". Ejemplos de dónde se puede usar un elemento section:
@@ -187,6 +184,11 @@ The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno
 los recuadros según corresponda: (valor 0.3 cada una, total 1.8)
     
  ![image](https://user-images.githubusercontent.com/91554777/164572088-a10117ae-7343-4ad9-9d51-48ae5beb5dbb.png)
+ 
+ SOLUCION:
+ 
+ ![image](https://user-images.githubusercontent.com/102439544/171218410-a311e1f3-7852-4402-b9bb-f0ffe3b42dc6.png)
+
     
 ## 4. LENGUAJE HTML
 
@@ -199,54 +201,52 @@ Preguntas:
     
 1. ¿Qué significa HTML? (valor 0.24)
     
-        a) Home Tool Markup Language
-        b) Hyperlinks and Text Markup Language
-        c) Hyper Text Markup Language
+        c) Hyper Text Markup Language ---------> RESPUESTA
     
 2. Elige el elemento HTML correcto para el encabezado más grande: (valor 0.24)
     
         a) heading
         b) hed
         c) h6
-        d) h1
+        d) h1 ---------> H1 Se usa para el encabezado más grande.
     
 3. ¿Cuál es el elemento HTML correcto para insertar un salto de línea? (valor 0.24)
 
         a) lb
-        b) br
+        b) br -------> Con su respectiva sintaxis de etiqueta "sin cerrar" ( <br> ).
         c) break
 
 4. ¿Cuál es el HTML correcto para agregar un color de fondo? (valor 0.24)
 
         a) <background>yellow</background>
         b) <body bg="yellow">
-        c) <body style="background-color:yellow;">
+        c) <body style="background-color:yellow;">. ---------> RESPUESTA
     
 5. Elija el elemento HTML correcto para definir texto importante (valor 0.24)
     
         a) b
-        b) strong
+        b) strong -------> RESPUESTA
         c) i
         d) important
     
 6. Elija el elemento HTML correcto para definir el texto enfatizado (valor 0.24)
     
         a) italic
-        b) em
+        b) em ---------> RRESPUESTA
         c) i
 
 7. ¿Cuál es el HTML correcto para crear un hipervínculo? (valor 0.24)
 
         a) <a>https://adip.cdmx.gob.mx/</a>
         b) <a name="https://adip.cdmx.gob.mx">ADIP</a>
-        c) <a href="https://adip.cdmx.gob.mx">ADIP</a>
+        c) <a href="https://adip.cdmx.gob.mx">ADIP</a> -------> SOLUCION
         d) <a url=”https://adip.cdmx.gob.mx">ADIP</a>
   
   
 8. ¿Cómo puedes abrir un enlace en una nueva pestaña/ventana del navegador? (valor 0.24)
   
         a) <a href="url" target="new">
-        b) <a href="url" target="_blank">
+        b) <a href="url" target="_blank"> -------> SOLUCION
         c) <a href="url" new>
   
 9. ¿Cuáles de estos elementos son todos elementos de table? (valor 0.24)
@@ -254,25 +254,25 @@ Preguntas:
           a) thead body  tr
           b) table  tr  tt
           c) table  head  tfoot
-          d) table  tr  td
+          d) table  tr  td ---------> SOLUCION
   
 10. Los elementos inline normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
           a) Verdadero
-          b) Falso
+          b) Falso ----------> RESPUESTA
     
   
 11. ¿Cómo puedes hacer una lista numerada? (valor 0.24)
   
           a) list
-          b) ol
+          b) ol --------> SOLUCION
           c) ul
           d) dl
   
 12. ¿Cómo se puede hacer una lista con viñetas? (valor 0.24)
   
           a) ol
-          b) ul
+          b) ul ----------> RESPUESTA
           c) list
           d) dl
   
@@ -281,21 +281,21 @@ Preguntas:
           a) input type="check"
           b) check
           c) checkbox
-          d) <input type="checkbox">  
+          d) <input type="checkbox">  --------> RESPUESTA
 
 14. ¿Cuál es el HTML correcto para crear un campo de entrada de texto? (valor 0.24) 
   
           a) textfield
           b) textinput type="text"
           c) input type="textfield"
-          d) input type="text"
+          d) input type="text"  -------> RESPUESTA
   
 15. ¿Cuál es el HTML correcto para hacer una lista desplegable? (valor 0.24)
   
           a) list
           b) input type="list"
           c) input type="dropdown"
-          d) select
+          d) select ----------> RESPUESTA
   
 16. ¿Cuál es el HTML correcto para hacer un área de texto? (valor 0.24)
   
