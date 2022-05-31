@@ -125,15 +125,62 @@ material en el que se encuentra (como una barra lateral)? (valor 0.3)
 - Section: 
 - Aside
 - Footer
+
+
+- Section: Este elemento define una sección en un documento. De acuerdo con la documentación HTML de W3C: "Una sección es una agrupación temática de contenido, generalmente con un encabezado". Ejemplos de dónde se puede usar un elemento section:
+
+● Capítulos
+
+● Introducción
+
+● Noticias
+
+● Información del contacto
+
+
+- Article: El elemento article especifica un contenedor independiente. Un artículo debe tener sentido por sí mismo y debe ser posible distribuirlo independientemente del resto del sitio web. Ejemplos de dónde se puede usar el elemento article:
+
+● Mensajes del foro
+
+● Publicaciones de blog
+
+● Comentarios del usuario
+
+● Tarjetas de productos
+
+
+- Aside: El elemento aside define algún contenido además del contenido en el que se coloca (como una barra lateral).
+
+El contenido aside debe estar indirectamente relacionado con el contenido circundante.
+
+● Artículos del periódico
+
+
+- Footer: El elemento footer define un pie de página para un documento o sección. Un elemento footer normalmente contiene:
+
+● Información de autoría
+
+● Información derechos de autor
+
+● Información del contacto
+
+● Mapa del sitio
+
+● Volver a los enlaces superiores
+
+● Documentos relacionados
+
+
   
 Los siguientes ejemplos de elementos son incorrectos. Describe lo que está mal con cada
 uno, y luego escríbelo correctamente. (cada respuesta vale 0.3, en total suman 1.2)
   
            
-        1. <img "birthday.jpg">
-        2. <i>Congratulations!<i>
+        1. <img "birthday.jpg"> ---> Este elemento es incorrecto; su sintaxis debería ser: img src="birthday.jpg" 
+        2. <i>Congratulations!<i> ---> Este elemento es incorrecto ya que debe de ir dentro de una etiqueta de texto así:  <p><i>Congratulations!</i></p>
         3. <a href="file.html">Enlace de texto</a href="file.html">
         4. <p>Esto es un párrafo<\p>
+
 
  Indicaciones: La siguiente imagen muestra el contenido de la página web del periodico
 The New York Times. Coloca los elementos semánticos de HTML5 dentro de cada uno de
