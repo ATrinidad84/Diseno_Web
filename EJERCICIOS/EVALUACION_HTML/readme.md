@@ -301,11 +301,11 @@ Preguntas:
   
           a) input type="textbox"
           b) input type="textarea"
-          c) textarea
+          c) textarea  ---------> RESPUESTA
   
 17. ¿Cuál es el HTML correcto para insertar una imagen? (valor 0.24
   
-          a) <img src="image.gif" alt="Mi imagen">
+          a) <img src="image.gif" alt="Mi imagen"> ---------> RESPUESTA
           b) <img href="image.gif" alt="Mi imagen">
           c) <img alt="Mi imagen">image.gif</img>
           d) <image src="image.gif" alt="Mi imagen">
@@ -313,48 +313,48 @@ Preguntas:
 18. ¿Cuál es el HTML correcto para insertar una imagen de fondo? (valor 0.24)
   
           a) <body bg="background.gif">
-          b) <body style="background-image:url(background.gif)">
+          b) <body style="background-image:url(background.gif)">  ----------> RESPUESTA
           c) <background img="background.gif">
   
 19. Los comentarios HTML comienzan con ![image](https://user-images.githubusercontent.com/91554777/164576568-aa1ae841-a85f-486b-b286-be51bfc8cd4e.png) (valor 0.24)
   
         a) Verdadero
-        b) Falso
+        b) Falso   --------> La sintaxis correcta para la etiqueta de comentarios es: <!-- Esto es un comentario -->
 
 20.Los elementos de bloque normalmente se muestran sin comenzar una nueva línea.(valor 0.24)
   
-        a) Verdadero
+        a) Verdadero -------> RESPUESTA
         b) Falso
   
 21. ¿Qué elemento HTML define el título de un documento? (valor 0.24)
   
         a) title
-        b) head
+        b) head -------> RESPUESTA
         c) meta
   
 22.¿Qué atributo HTML especifica un texto alternativo para una imagen, si la imagen no se puede mostrar? (valor 0.24)
 
         a) longdesc
         b) src
-        c) alt
+        c) alt ---------> RESPUESTA
         d) title
   
 23. ¿Qué tipo de documento es correcto para HTML5? (valor 0.24)
   
-        a) <!DOCTYPE html>
+        a) <!DOCTYPE html> ---------> RESPUESTA
         b) <!DOCTYPE HTML5>
   
 c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0//EN\"\"http://www.w3.org/TR/html5/strict.dtd\">
   
-24.¿Qué elemento HTML se usa para especificar un pie de página para un documentoo sección? (valor 0.24)
+24.¿Qué elemento HTML se usa para especificar un pie de página para un documento sección? (valor 0.24)
   
         a) bottom
-        b) footer
+        b) footer ----------> SOLUCION
         c) section
   
 25. ¿Cuál es el elemento HTML correcto para reproducir archivos de video? (valor 0.24)
   
-        a) video
+        a) video --------> RESPUESTA
         b) media
         c) movie
   
@@ -369,6 +369,66 @@ elementos semánticos de HTML5.
 
 ● Deberás, en un bloc de notas, colocar todo el código html5 y guárdalo con
 extensión .html
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+
+    <link rel="stylesheet" href="css/estilos.css">
+
+</head>
+<body>
+    
+
+
+<header>
+       <h1>ENCABEZADO NIVEL1</h1>
+       <nav>    
+            <ul>
+                    <li><a href="">ENLACE 1 </a></li>
+                    <li><a href="">ENLACE 2 </a></li>
+                    <li><a href="">ENLACE 3 </a></li>
+                    <li><a href="">ENLACE 4 </a></li>
+            </ul>
+        </nav>
+
+</header>
+
+ <main>    
+            <section>
+                <h3>encabezado nivel 2</h3>
+                        <p>aqui escriba el texto del primer parrafo</p><br>
+                      <p>Aqui escriba el texto del segundo parrafo</p>
+                  </section>
+            <aside>
+                 <h3>Apartado</h3><br>
+                       <form>
+                         Elije una opcion:<br>
+                            <label><input type="radio" id="opcion 1" name="opcion" value="opcion1"/>opcion 1<br></label>
+                            <label><input type="radio" id="opcion 2" name="opcion" value="opcion2"/>opcion 2<br></label>
+                            <label><input type="radio" id="opcion 3" name="opcion" value="opcion3"/>opcion 3<br></label>
+                            <label><input type="submit" value="enviar"></label>
+                       </form>
+            </aside>
+
+</main>
+                 <footer>
+
+                        <p>Seccion de informacion de contacto,derechos de autor, etc.</p>
+
+                        
+                </footer>
+
+
+   </body>
+</html>
+
 
 ● No es necesario que incluyas los estilos (CSS) para cada elemento en esta
 actividad pero sí todo el código HTML5 que da estructura a cada una de las
